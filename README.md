@@ -1,6 +1,11 @@
-# Clients Management Web-App
 
-Client Management Portal is a web-app that Manages Clients. .
+
+<img width="3780" height="1890" alt="Purple and White Futuristic Artificial Intelligence Technology Banner (1)" src="https://github.com/user-attachments/assets/900d9e6d-7e4a-4d83-ae48-a94614c6a7d6" />
+
+
+# Satra- A Clients Management Web-App
+
+A Full-stack webapp designed to simplify and streamline client management for businesses. It offers a secure login system, an intuitive dashboard, and comprehensive features to manage client information efficiently. Users can add new clients with details such as name, contact information, services provided, payment status, and upload related documents like invoices or images. The Manage Clients section allows searching, editing, and deleting client records with ease, giving businesses full control over their client database. With a modern, user-friendly interface and organized workflow, this app helps companies save time, stay organized, and maintain professional relationships effectively
 
 ✅ Prerequisites
 
